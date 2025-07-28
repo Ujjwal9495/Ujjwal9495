@@ -95,10 +95,10 @@
 <h2 align="left">Connect with me</h2>
 
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://www.linkedin.com/in/ujjwalroy1/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
 </a>
-<a href="mailto:your-email@gmail.com">
+<a href="ujjwalrau15@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" />
 </a>
 </p>
