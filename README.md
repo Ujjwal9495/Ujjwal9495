@@ -1,6 +1,6 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left">My name is <strong>Ujjwal Roy</strong> and I'm a passionate <strong>Data Analyst</strong> & aspiring Web Developer from India.</p>
+<p align="left">My name is <strong>Ujjwal Roy</strong> and I'm passionate about <strong>Java Full-Stack Development</strong> with interests in <strong>Frontend, Backend, and SQL</strong>. I also have basic knowledge of <strong>Data Analysis tools</strong> like MS Excel, MS Office, and Power BI.</p>
 
 ---
 
@@ -27,9 +27,9 @@
 <td>
 
 ✨ Creating bugs since 2021  
-📚 I'm currently learning: <strong>Data Engineering, Cloud Basics, Advanced Power BI</strong>  
-🎯 Goals: <strong>To become a skilled Data Engineer and Full Stack Developer</strong>  
-🎲 Fun fact: <strong>I love analyzing data patterns and also enjoy building web apps in my free time.</strong>
+📚 I'm currently learning: <strong>Java Full-Stack Development, React.js, Spring Boot, and SQL</strong>  
+🎯 Goals: <strong>To become a skilled Full Stack Developer</strong>  
+🎲 Fun fact: <strong>I enjoy building web applications and also exploring data analysis tools like Excel and Power BI.</strong>
 
 </td>
 <td>
@@ -98,7 +98,7 @@
 <a href="https://www.linkedin.com/in/ujjwalroy1/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
 </a>
-<a href="ujjwalrau15@gmail.com">
+<a href="mailto:ujjwalrau15@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" />
 </a>
 </p>
