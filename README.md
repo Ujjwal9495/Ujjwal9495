@@ -84,22 +84,18 @@ My name is <strong>Ujjwal Roy</strong> and I'm an aspiring <strong>Java Full-Sta
 
 <h2 align="left">GitHub Stats</h2>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ujjwal9495&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://streak-stats.demolab.com?user=Ujjwal9495&theme=tokyonight" height="165" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ujjwal9495&show_icons=true&theme=tokyonight&cache_seconds=1800" height="165" alt="stats graph" />
-
-<img src="https://streak-stats.demolab.com?user=Ujjwal9495&theme=tokyonight" height="165" alt="streak graph" />
-
-</div>
 
 ---
 
 <h2 align="left">Top Languages</h2>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwal9495&layout=compact&theme=tokyonight&cache_seconds=1800" height="165" alt="top languages" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwal9495&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 ---
